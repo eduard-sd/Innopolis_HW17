@@ -12,3 +12,230 @@
 2018-09-26 01:01:14,774[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
 2018-09-26 01:01:14,774[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
 2018-09-26 01:01:14,774[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 10:58:21,600[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 10:58:21,615[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 10:58:21,615[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 10:58:21,615[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 10:58:21,615[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 10:58:21,735[ISO8601] [WARN ] [main            ][    ru.sayakhov.Main] - Ошибка чтения
+2018-09-28 10:59:16,043[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 10:59:16,044[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 10:59:16,044[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 10:59:16,044[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 10:59:16,044[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 10:59:34,343[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 10:59:34,344[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 10:59:34,344[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 10:59:34,344[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 10:59:34,344[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 11:11:48,981[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 11:11:48,982[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 11:11:48,982[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 11:11:48,982[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 11:11:48,983[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 11:16:25,156[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 11:16:25,158[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 11:16:25,158[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 11:16:25,158[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 11:16:25,158[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 11:16:43,779[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 11:16:43,780[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 11:16:43,780[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 11:16:43,780[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 11:16:43,780[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 11:18:49,776[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 11:18:49,778[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 11:18:49,778[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 11:18:49,778[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 11:18:49,778[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 11:18:49,822[ISO8601] [WARN ] [main            ][    ru.sayakhov.Main] - Ошибка чтения
+2018-09-28 11:20:32,073[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 11:20:32,075[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 11:20:32,075[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 11:20:32,075[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 11:20:32,075[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 11:22:38,509[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 11:22:38,510[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 11:22:38,510[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 11:22:38,510[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 11:22:38,511[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 11:25:34,521[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 11:25:34,522[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 11:25:34,522[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 11:25:34,522[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 11:25:34,522[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 11:27:10,541[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 11:27:10,542[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 11:27:10,542[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 11:27:10,542[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 11:27:10,542[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 11:30:46,359[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 11:30:46,361[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 11:30:46,361[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 11:30:46,361[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 11:30:46,361[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 11:33:44,605[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 11:33:44,606[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 11:33:44,606[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 11:33:44,606[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 11:33:44,607[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 11:36:03,943[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 11:36:03,945[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 11:36:03,945[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 11:36:03,945[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 11:36:03,945[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 11:50:49,181[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 11:50:49,182[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 11:50:49,182[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 11:50:49,182[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 11:50:49,183[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 12:11:21,794[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 12:11:21,795[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 12:11:21,795[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 12:11:21,796[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 12:11:21,796[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 12:11:54,718[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 12:11:54,719[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 12:11:54,719[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 12:11:54,719[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 12:11:54,719[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 12:13:54,720[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 12:13:54,721[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 12:13:54,721[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 12:13:54,721[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 12:13:54,721[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 12:15:03,502[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 12:15:03,503[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 12:15:03,503[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 12:15:03,503[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 12:15:03,503[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 12:15:22,565[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 12:15:22,567[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 12:15:22,567[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 12:15:22,567[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 12:15:22,567[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 12:37:43,855[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 12:37:43,857[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 12:37:43,857[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 12:37:43,857[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 12:37:43,857[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 12:39:41,349[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 12:39:41,350[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 12:39:41,350[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 12:39:41,350[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 12:39:41,350[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 12:40:02,673[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 12:40:02,675[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 12:40:02,675[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 12:40:02,675[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 12:40:02,675[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 12:40:09,624[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 12:40:09,625[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 12:40:09,625[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 12:40:09,625[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 12:40:09,625[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 12:40:11,739[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 12:40:11,740[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 12:40:11,740[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 12:40:11,740[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 12:40:11,740[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 12:59:52,961[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 12:59:52,963[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 12:59:52,963[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 12:59:52,963[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 12:59:52,963[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:01:44,111[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:01:44,112[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:01:44,112[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:01:44,112[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:01:44,113[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:03:36,036[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:03:36,038[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:03:36,038[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:03:36,038[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:03:36,038[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:04:32,439[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:04:32,441[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:04:32,441[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:04:32,441[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:04:32,441[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:04:43,825[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:04:43,827[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:04:43,827[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:04:43,827[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:04:43,827[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:06:08,542[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:06:08,543[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:06:08,544[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:06:08,544[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:06:08,544[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:12:05,504[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:12:05,506[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:12:05,506[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:12:05,506[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:12:05,506[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:12:28,783[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:12:28,784[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:12:28,785[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:12:28,785[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:12:28,785[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:13:35,648[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:13:35,649[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:13:35,649[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:13:35,649[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:13:35,650[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:14:41,971[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:14:41,973[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:14:41,973[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:14:41,973[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:14:41,973[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:16:48,101[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:16:48,102[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:16:48,102[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:16:48,102[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:16:48,102[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:17:40,187[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:17:40,188[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:17:40,189[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:17:40,189[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:17:40,189[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:20:08,357[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:20:08,358[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:20:08,358[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:20:08,358[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:20:08,359[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:20:21,025[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:20:21,026[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:20:21,026[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:20:21,026[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:20:21,026[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:20:57,708[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:20:57,709[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:20:57,709[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:20:57,709[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:20:57,709[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:22:01,500[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:22:01,502[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:22:01,502[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:22:01,502[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:22:01,502[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:23:30,576[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:23:30,578[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:23:30,579[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:23:30,579[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:23:30,579[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:29:43,854[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:29:43,856[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:29:43,856[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:29:43,856[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:29:43,856[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:30:01,986[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:30:01,988[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:30:01,988[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:30:01,988[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:30:01,988[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве
+2018-09-28 13:32:59,371[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Листья травы 12 рец.', author='Уитмен Уолт', date=2018-09-25}
+2018-09-28 13:32:59,372[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Пиковая дама', author='Пушкин Александр Сергеевич', date=2000-10-11}
+2018-09-28 13:32:59,372[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Смерть Артура', author='Мэлори Томас', date=1900-01-01}
+2018-09-28 13:32:59,372[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Добавить книгу в архиве: Book{name='Только для левшей', author='Ютци Себастиан', date=1950-05-22}
+2018-09-28 13:32:59,372[ISO8601] [INFO ] [main            ][ ru.sayakhov.Library] - Показать все книги в архиве

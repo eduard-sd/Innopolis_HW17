@@ -12,20 +12,24 @@ public class Library implements Serializable {
 
     private Book[] booksList = new Book[0];
 
-    public void getBooksList() {
+    public void printBooksList() {
         LOG.info("Показать все книги в архиве");
         for ( Book i : booksList) {
             System.out.println(i.toString());
         }
     }
 
-    public void setBooksList(Book book) {
+    public void addBooks(Book book) {
         LOG.info("Добавить книгу в архиве: " + book);// создается инфо запис в лог
         final int newSize = booksList.length + 1; // задается размер массива
         Book[] newbooksList = new Book[newSize]; //определяется новый массив с новым увеличенным размером длинны
         System.arraycopy(booksList, 0, newbooksList, 0, booksList.length);//копируется массиввставляется обьект в массив
         newbooksList[newSize-1] = book;//
         booksList = newbooksList;//
+    }
+
+    public Book[] getBooksList() {
+        return booksList;
     }
 
     @Override
