@@ -6,6 +6,7 @@ import org.slf4j.LoggerFactory;
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.text.SimpleDateFormat;
+import java.util.Arrays;
 
 public class Main {
     private static final Logger LOG = LoggerFactory.getLogger(Main.class.getName());
@@ -42,27 +43,35 @@ public class Main {
         System.out.println();
         File library = new File("Library.txt");
         // Запись списка книг в файл (поток закрывается автоматически)
-        try (FileWriter writer = new FileWriter(library, true)) { // добавляем в конец документа, false перезаписываем документ
-            for ( Book i : lib1.getBooksList() ) {
-                writer.write("\n");
-                writer.write(String.valueOf(i));
-                writer.flush();
-            }
+        try (FileOutputStream fos = new FileOutputStream(library);
+             ObjectOutputStream oos = new ObjectOutputStream(fos)) { // добавляем в конец документа, false перезаписываем документ
+            oos.writeObject(lib1);
         } catch (IOException ex) {
             LOG.warn("Ошибка записи архива в файл");
             ex.printStackTrace();
         }
+
+
+
+
+
         /**
          * Чтение файла (поток закрывается автоматически)
          */
-        try  (BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("Library.txt"))))  {
-            String strLine;
-            while ((strLine = br.readLine()) != null) {
-                System.out.println(strLine);
+        try  (FileInputStream fis = new FileInputStream(library);
+              ObjectInputStream oin = new ObjectInputStream(fis))  {
+
+            try {
+                lib1 = (Library) oin.readObject();
+            } catch (ClassNotFoundException e) {
+                e.printStackTrace();
             }
+            lib1.printBooksList();
+
         } catch (IOException ex) {
             LOG.warn("Ошибка чтения");
             ex.printStackTrace();
         }
+
     }
 }
